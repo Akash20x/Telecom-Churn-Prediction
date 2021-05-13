@@ -58,11 +58,8 @@ python app.py
 
 # Done!
 
-Finally, run the development server:
+Finally, it runs on the development server:
 
-```bash
-python manage.py runserver
-```
 The project will be available at http://127.0.0.1:5000/
 
 ## 🏆 Project Admin 🏆
