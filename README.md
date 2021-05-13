@@ -1,5 +1,5 @@
 
-# Telecommunications Customer Churn Predictiom
+# Telecommunications Customer Churn Prediction
 
 ## Discovering which customers are most likely to churn and which will stay.
 
